@@ -10,6 +10,4 @@ We are a small development team focussed on creating efficient, high quality res
 ## 👉 Links
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/swm5uw2pRt)
 [![Store](https://img.shields.io/badge/Store-F4C400.svg?style=for-the-badge&logo=tebex&logoColor=white)](https://buy.tkstudios.store)
-
-## 📚 Documentation
-https://docs.tkstudios.store/
+[![Documentation](https://img.shields.io/badge/Documentation-F16061?style=for-the-badge&logo=tebex&logoColor=white)](https://docs.tkstudios.store)
